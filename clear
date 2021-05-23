@@ -1,0 +1,30 @@
+[33mcommit 95b05e00b240e2b81e17fe8dd428d1f5e0f468e6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Saad <saadshakeel1996@gmail.com>
+Date:   Thu May 20 15:17:01 2021 -0700
+
+    ignonred log wali file
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3380c3b[m
+[1m--- /dev/null[m
+[1m+++ b/.gitignore[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mmylogs.log[m
+\ No newline at end of file[m
+[1mdiff --git a/log/mylogs.log b/log/mylogs.log[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/tim.py b/tim.py[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 9490b201fb12f8de519b15ef3b70fe43140c27ce[m
+Author: Saad <saadshakeel1996@gmail.com>
+Date:   Thu May 20 01:56:22 2021 -0700
+
+    adde waste
+
+[1mdiff --git a/saad.html b/saad.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
